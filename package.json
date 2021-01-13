@@ -1,0 +1,26 @@
+{
+  "name": "node-input",
+  "version": "1.0.0",
+  "description": "An input library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "test:input": "node test/input-test.js",
+    "test:stream": "node test/stream-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitthemoney/node-input.git"
+  },
+  "keywords": [
+    "input",
+    "stdin",
+    "nodejs"
+  ],
+  "author": "hitthemoney",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hitthemoney/node-input/issues"
+  },
+  "homepage": "https://github.com/hitthemoney/node-input#readme"
+}
