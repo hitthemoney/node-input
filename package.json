@@ -1,5 +1,5 @@
 {
-  "name": "node-input",
+  "name": "node-input.js",
   "version": "1.0.0",
   "description": "An input library",
   "main": "src/index.js",
