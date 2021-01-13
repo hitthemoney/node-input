@@ -14,8 +14,7 @@
   },
   "keywords": [
     "input",
-    "stdin",
-    "nodejs"
+    "stdin"
   ],
   "author": "hitthemoney",
   "license": "GPL-3.0",
