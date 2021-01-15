@@ -1,4 +1,4 @@
-<div align="center"><p><a href="https://nodei.co/npm/node-input.js/"><img src="https://nodei.co/npm/node-input.js.png?downloads=true&stars=true"></a></p><p><a href="https://www.npmjs.com/package/node-input.js"><img src="https://img.shields.io/npm/v/node-input.js.svg?maxAge=3600" alt="Version"></a><a href="https://www.npmjs.com/package/node-input.js"><img src="https://img.shields.io/npm/dt/node-input.js.svg?maxAge=3600" alt="Downloads"></a></p><p>
+<div align="center"><p><a href="https://nodei.co/npm/node-input.js/"><img src="https://nodei.co/npm/node-input.js.png?downloads=true&stars=true"></a></p><p><a href="https://www.npmjs.com/package/node-input.js"><img src="https://img.shields.io/npm/v/node-input.js.svg?maxAge=3600" alt="Version"></a><a href="https://www.npmjs.com/package/node-input.js"><img src="https://img.shields.io/npm/dt/node-input.js.svg?maxAge=3600" alt="Downloads"></a></p></div>
 
 # Installation
 npm: `npm i node-input.js`

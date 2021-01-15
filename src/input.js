@@ -1,4 +1,5 @@
 const { stdin, stdout } = process;
+const endlRegExp = /(\r\n|\r|\n)$/;
 
 /**
  * stdin input
@@ -10,7 +11,7 @@ let input = (msg = "") => new Promise((resolve, reject) => {
 
     stdin.once("data", (buffer) => {
         let str = buffer.toString();
-        str = typeof str == "string" ? str.replace(/\n$/, "") : ""; 
+        str = str.replace(endlRegExp, ""); 
         resolve(str);
     })
 })

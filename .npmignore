@@ -1,2 +1,4 @@
 test
 .gitattributes
+ignore
+node_modules
